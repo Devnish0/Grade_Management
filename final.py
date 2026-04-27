@@ -67,7 +67,7 @@ def high_low():
     print(ans)
     print(ans1)
     
-    # kanav is the author of this repo
+    # kanav king is the author of this repo
 def grade_card(x):
     
  for k in students:
